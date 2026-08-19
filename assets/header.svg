@@ -27,11 +27,11 @@
   <circle cx="100" cy="66" r="6" fill="#4F8EF7"/>
   <circle cx="122" cy="66" r="6" fill="#34D399"/>
 
-  <!-- Icône code au centre -->
-  <text x="140" y="165" font-family="'Fira Code', monospace" font-size="64" font-weight="700" fill="url(#iconGrad)" text-anchor="middle">&lt;/&gt;</text>
+  <!-- Initiale au centre -->
+  <text x="140" y="170" font-family="'Segoe UI', sans-serif" font-size="88" font-weight="700" fill="url(#iconGrad)" text-anchor="middle">K</text>
 
   <!-- Titre -->
-  <text x="280" y="130" font-family="'Segoe UI', sans-serif" font-size="46" font-weight="700" fill="url(#textGrad)">Bonjour, je suis Votre Nom</text>
+  <text x="280" y="130" font-family="'Segoe UI', sans-serif" font-size="46" font-weight="700" fill="url(#textGrad)">Bonjour, je suis Kenzus</text>
   <text x="280" y="170" font-family="'Segoe UI', sans-serif" font-size="22" fill="#9CA3AF">Développeur Full-Stack — Python · C · TypeScript · Nuxt</text>
 
   <!-- Petits points décoratifs sous le sous-titre, écho du logo -->
