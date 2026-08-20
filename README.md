@@ -30,7 +30,7 @@
 
 <br clear="left">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nuxt,python,sql,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nuxt,python,c)](https://skillicons.dev)
 
 <!-- <div align="left">
 
