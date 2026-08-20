@@ -30,7 +30,9 @@
 
 <br clear="left">
 
-<div align="left">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nuxt,python,sql)](https://skillicons.dev)
+
+<!-- <div align="left">
 
 <img src="https://img.shields.io/badge/Python-9B7EF0?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-4F8EF7?style=flat&logo=c&logoColor=white" />
@@ -40,9 +42,9 @@
 <img src="https://img.shields.io/badge/CSS3-34D399?style=flat&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Nuxt-9B7EF0?style=flat&logo=nuxt.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-4F8EF7?style=flat&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-34D399?style=flat&logo=git&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=all" />
 
-</div>
+</div> -->
 
 <br>
 
