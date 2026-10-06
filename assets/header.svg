@@ -1,18 +1,18 @@
 <svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#9B7EF0"/>
+      <stop offset="0%" stop-color="#4F8EF7"/>
       <stop offset="55%" stop-color="#4F8EF7"/>
-      <stop offset="100%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#4F8EF7"/>
     </linearGradient>
     <linearGradient id="iconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#B4A2F5"/>
+      <stop offset="0%" stop-color="#4F8EF7"/>
       <stop offset="100%" stop-color="#4F8EF7"/>
     </linearGradient>
     <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#9B7EF0"/>
+      <stop offset="0%" stop-color="#4F8EF7"/>
       <stop offset="60%" stop-color="#4F8EF7"/>
-      <stop offset="100%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#4F8EF7"/>
     </linearGradient>
     <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%">
       <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#4F8EF7" flood-opacity="0.25"/>
@@ -23,19 +23,19 @@
   <rect x="40" y="30" width="200" height="200" rx="44" fill="#0D1117" stroke="url(#borderGrad)" stroke-width="4" filter="url(#cardShadow)"/>
 
   <!-- Points façon barre de fenêtre -->
-  <circle cx="78" cy="66" r="6" fill="#9B7EF0"/>
+  <circle cx="78" cy="66" r="6" fill="#4F8EF7"/>
   <circle cx="100" cy="66" r="6" fill="#4F8EF7"/>
-  <circle cx="122" cy="66" r="6" fill="#34D399"/>
+  <circle cx="122" cy="66" r="6" fill="#4F8EF7"/>
 
   <!-- Initiale au centre -->
   <text x="140" y="170" font-family="'Segoe UI', sans-serif" font-size="88" font-weight="700" fill="url(#iconGrad)" text-anchor="middle">K</text>
 
   <!-- Titre -->
   <text x="280" y="130" font-family="'Segoe UI', sans-serif" font-size="46" font-weight="700" fill="url(#textGrad)">Bonjour, je suis Kenzus</text>
-  <text x="280" y="170" font-family="'Segoe UI', sans-serif" font-size="22" fill="#9CA3AF">Data &amp; IA — Python · SQL · Machine Learning · Full-Stack</text>
+  <text x="280" y="170" font-family="'Segoe UI', sans-serif" font-size="22" fill="#4F8EF7">Data &amp; IA — Python · SQL · Machine Learning · Full-Stack</text>
 
   <!-- Petits points décoratifs sous le sous-titre, écho du logo -->
-  <circle cx="284" cy="196" r="5" fill="#9B7EF0"/>
+  <circle cx="284" cy="196" r="5" fill="#4F8EF7"/>
   <circle cx="304" cy="196" r="5" fill="#4F8EF7"/>
-  <circle cx="324" cy="196" r="5" fill="#34D399"/>
+  <circle cx="324" cy="196" r="5" fill="#4F8EF7"/>
 </svg>

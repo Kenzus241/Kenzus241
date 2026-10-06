@@ -65,13 +65,13 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/votre-profil">
+<a href="https://linkedin.com/in/bernes-ndoussy">
   <img src="https://img.shields.io/badge/LinkedIn-4F8EF7?style=flat&logo=linkedin&logoColor=4F8EF7&labelColor=0D1117" />
 </a>
-<a href="https://twitter.com/votre-profil">
-  <img src="https://img.shields.io/badge/Twitter-4F8EF7?style=flat&logo=twitter&logoColor=4F8EF7&labelColor=0D1117" />
+<a href="https://www.instagram.com/__kenzus__/">
+  <img src="https://img.shields.io/badge/Instagram-4F8EF7?style=flat&logo=instagram&logoColor=4F8EF7&labelColor=0D1117" />
 </a>
-<a href="mailto:[email protected]">
+<a href="mailto:[ndoussybernes@gmail.com]]">
   <img src="https://img.shields.io/badge/Email-4F8EF7?style=flat&logo=gmail&logoColor=4F8EF7&labelColor=0D1117" />
 </a>
 <a href="https://votre-site.com">

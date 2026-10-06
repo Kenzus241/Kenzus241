@@ -1,0 +1,20 @@
+<svg width="1000" height="170" viewBox="0 0 1000 170" xmlns="http://www.w3.org/2000/svg">
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="21" fill="#DDE6FF">
+    <text x="0" y="26">
+      <tspan fill="#4F8EF7" font-weight="700">Actuellement</tspan>
+      <tspan> je développe un projet pour aider les entrepreneurs à mieux piloter leur activité.</tspan>
+    </text>
+    <text x="0" y="62">
+      <tspan fill="#4F8EF7" font-weight="700">J'apprends</tspan>
+      <tspan> Vue, Nuxt et les bonnes pratiques full-stack pour créer des interfaces solides.</tspan>
+    </text>
+    <text x="0" y="98">
+      <tspan fill="#4F8EF7" font-weight="700">J'aime collaborer</tspan>
+      <tspan> sur des projets utiles mêlant data, IA, automatisation et expérience produit.</tspan>
+    </text>
+    <text x="0" y="134">
+      <tspan fill="#4F8EF7" font-weight="700">Mes sujets favoris</tspan>
+      <tspan> Python, SQL, machine learning, dashboards et développement web moderne.</tspan>
+    </text>
+  </g>
+</svg>
